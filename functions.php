@@ -1,7 +1,7 @@
 <?php
 
 /**
-	* Custom Post Formrmat
+* Custom Post Formrmat
 **/
 
 add_action('init', 'my_theme_slug_add_post_formats_to_page', 11);
