@@ -1,0 +1,11 @@
+/* Titulo del evento */
+.single-tribe_events .tribe-events-single-event-title{
+	font-size: 2em;
+}
+
+/* Botones */
+#tribe-events .tribe-events-button, .tribe-events-button{
+	display: block;
+  width: 100%;
+  background-color: #3a87ad;
+}

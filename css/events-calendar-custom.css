@@ -1,3 +1,9 @@
+@import url('http://turing.binima.com/proyectos/wp-eventos/wp-content/themes/ultrabootstrap/tribe-events/css/events-calendar-theme-custom.css');
+
 .tribe-events-event-meta .column, .tribe-events-event-meta .tribe-events-meta-group{
 	width: 100%;
+}
+.single-tribe_events .tribe-events-venue-map{
+	width: 100%;
+	margin-right: 0;
 }
